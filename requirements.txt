@@ -1,4 +1,4 @@
-sentry
+sentry==dev
 # add
 newrelic
 dj-database-url
