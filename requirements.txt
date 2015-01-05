@@ -7,3 +7,6 @@ sentry-github
 sentry-hipchat
 sentry-irc
 sentry-jira
+django-secure
+django-bcrypt
+gevent
