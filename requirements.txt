@@ -1,4 +1,4 @@
--e git+https://github.com/getsentry/sentry.git#egg=sentry
+sentry==6.4.4
 # add
 newrelic
 dj-database-url
