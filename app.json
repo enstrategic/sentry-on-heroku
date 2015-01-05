@@ -1,7 +1,7 @@
 {
   "name": "Sentry",
   "description": "Sentry is a realtime event logging and aggregation platform",
-  "repository": "https://github.com/fastmonkeys/sentry-on-heroku",
+  "repository": "https://github.com/enstrategic/sentry-on-heroku",
   "website": "http://getsentry.com",
   "keywords": [
     "logging",
@@ -9,7 +9,7 @@
   ],
   "addons": [
     "heroku-postgresql:hobby-dev",
-    "mandrill:starter",
+    "sendgrid:starter",
     "newrelic:stark"
   ],
   "env": {
